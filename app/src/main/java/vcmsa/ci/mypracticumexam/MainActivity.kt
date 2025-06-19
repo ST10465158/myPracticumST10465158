@@ -1,5 +1,5 @@
 package vcmsa.ci.mypracticumexam
-
+//Student number: ST10465158 name: Rumaisa Khan
 import android.annotation.SuppressLint
 import android.content.Intent
 import android.media.Rating
